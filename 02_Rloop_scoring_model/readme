@@ -1,0 +1,5 @@
+A key component of this study is the R-loop scoring model, calculated using the cal_CRDscore function.
+This model integrates the expression levels of known R-loop regulators to infer the R-loop state.
+The scoring algorithm was independently applied to both single-cell and bulk RNA-sequencing datasets.
+Based on the resulting scores, patient samples were classified into high-score and low-score subgroups for downstream analysis.
+
