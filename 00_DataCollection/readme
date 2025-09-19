@@ -3,4 +3,19 @@ associated clinical information:
 keywords:
 (((((liver cancer[Title]) OR (hepatocellular carcinoma[Title])) OR (HCC[Title/Abstract])) OR (liver tumor[Title/Abstract])) OR (neoadjuvant immunotherapy[Title])) AND (((single-cell transcript*[Title/Abstract]) OR (single-cell RNA[Title/Abstract])) OR (scRNA-seq[Title/Abstract])))
 
+The criteria is as following:
+
+1. remove articles before 2018 (n=)
+2. remove unable to obtain full-text and review (n=)
+3. remove no public data available in GEO (n=)
+4. remove without well-informed clinical data, and cells no more than 20000, and patients no more than 15, and mouse single-cell RNA (n=)
+5. remove studies that did not generate new data, only reanalyzed existing data (n=)
+6. remove studies that were retrieved but irrelevant to our research (n=)
+7. remove studies that were retracted (n=)
+
+
+
+
+
+
 
