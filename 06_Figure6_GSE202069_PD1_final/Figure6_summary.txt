@@ -1,0 +1,4 @@
+n_total_PD1_response_samples: 17
+n_responder: 8
+n_non_responder: 9
+main_conclusion: RLP3/RLP4 program is better interpreted as a hypoxia-associated immune-metabolic state rather than a direct anti-PD-1 response predictor.
