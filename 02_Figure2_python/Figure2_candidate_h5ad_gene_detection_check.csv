@@ -1,0 +1,8 @@
+path,n_obs,n_vars,overlap_malignant_cells,detected_rloop_genes
+/mnt/zhangzheng_group/liuz-53/Test_R/R_loop_HCC/01_Figure1_python/Step12_high_confidence_malignant_cells.h5ad,9008,2732,9008,154
+/mnt/zhangzheng_group/liuz-53/Test_R/R_loop_HCC/01_Figure1_python/Step11_adata_with_inferCNV_major_annotation.h5ad,60726,2732,9008,154
+/mnt/zhangzheng_group/liuz-53/Test_R/R_loop_HCC/01_Figure1_python/Step11_adata_with_inferCNV_refined_subtypes.h5ad,60726,2732,9008,154
+/mnt/zhangzheng_group/liuz-53/Test_R/R_loop_HCC/01_Figure1_python/Step10_adata_all_final_celltype.h5ad,60726,2732,9008,154
+/mnt/zhangzheng_group/liuz-53/Test_R/R_loop_HCC/01_Figure1_python/Step9A_adata_all_final_annotation_raw_merged.h5ad,60726,2732,9008,154
+/mnt/zhangzheng_group/liuz-53/Test_R/R_loop_HCC/01_Figure1_python/Step5A_adata_all_raw_merged.h5ad,60726,17532,9008,1095
+/mnt/zhangzheng_group/liuz-53/Test_R/R_loop_HCC/01_Figure1_python/adata_all_integrated_final.h5ad,60726,3000,9008,56
