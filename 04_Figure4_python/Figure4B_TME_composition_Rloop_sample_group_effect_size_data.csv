@@ -1,0 +1,106 @@
+Rloop_sample_group,Cell type,Proportion
+R-loop-low-enriched,B cell,0.34662045060658575
+R-loop-high-enriched,B cell,2.380952380952381
+R-loop-high-enriched,B cell,0.0
+R-loop-high-enriched,B cell,1.4925373134328357
+R-loop-high-enriched,B cell,0.0
+R-loop-high-enriched,B cell,0.0
+R-loop-low-enriched,B cell,0.0
+R-loop-high-enriched,B cell,0.3144654088050315
+R-loop-low-enriched,B cell,2.1739130434782608
+R-loop-low-enriched,B cell,1.704966641957005
+R-loop-high-enriched,B cell,39.761431411530815
+R-loop-high-enriched,B cell,1.7241379310344827
+R-loop-low-enriched,B cell,0.0
+R-loop-high-enriched,B cell,10.615711252653929
+R-loop-high-enriched,B cell,70.36569987389659
+R-loop-low-enriched,CAF,2.5996533795493932
+R-loop-high-enriched,CAF,0.3401360544217687
+R-loop-high-enriched,CAF,0.7299270072992701
+R-loop-high-enriched,CAF,17.91044776119403
+R-loop-high-enriched,CAF,4.661016949152542
+R-loop-high-enriched,CAF,1.8691588785046727
+R-loop-low-enriched,CAF,5.0359712230215825
+R-loop-high-enriched,CAF,18.867924528301888
+R-loop-low-enriched,CAF,18.695652173913043
+R-loop-low-enriched,CAF,13.194959229058561
+R-loop-high-enriched,CAF,2.982107355864811
+R-loop-high-enriched,CAF,3.201970443349754
+R-loop-low-enriched,CAF,15.86433260393873
+R-loop-high-enriched,CAF,0.14154281670205238
+R-loop-high-enriched,CAF,1.7654476670870116
+R-loop-low-enriched,HPC-like,6.932409012131716
+R-loop-high-enriched,HPC-like,15.98639455782313
+R-loop-high-enriched,HPC-like,7.2992700729927
+R-loop-high-enriched,HPC-like,13.432835820895523
+R-loop-high-enriched,HPC-like,0.847457627118644
+R-loop-high-enriched,HPC-like,3.7383177570093453
+R-loop-low-enriched,HPC-like,5.0359712230215825
+R-loop-high-enriched,HPC-like,0.10482180293501049
+R-loop-low-enriched,HPC-like,4.782608695652174
+R-loop-low-enriched,HPC-like,49.88880652335063
+R-loop-high-enriched,HPC-like,0.5964214711729622
+R-loop-high-enriched,HPC-like,1.7241379310344827
+R-loop-low-enriched,HPC-like,3.7199124726477026
+R-loop-high-enriched,HPC-like,0.14154281670205238
+R-loop-high-enriched,HPC-like,0.7566204287515763
+R-loop-low-enriched,T cell,1.9064124783362217
+R-loop-high-enriched,T cell,1.3605442176870748
+R-loop-high-enriched,T cell,28.467153284671532
+R-loop-high-enriched,T cell,7.462686567164178
+R-loop-high-enriched,T cell,3.389830508474576
+R-loop-high-enriched,T cell,35.51401869158878
+R-loop-low-enriched,T cell,0.0
+R-loop-high-enriched,T cell,2.0964360587002098
+R-loop-low-enriched,T cell,24.782608695652176
+R-loop-low-enriched,T cell,6.449221645663454
+R-loop-high-enriched,T cell,27.037773359840955
+R-loop-high-enriched,T cell,66.99507389162561
+R-loop-low-enriched,T cell,58.096280087527354
+R-loop-high-enriched,T cell,75.58386411889597
+R-loop-high-enriched,T cell,14.627994955863807
+R-loop-low-enriched,TAM,7.452339688041594
+R-loop-high-enriched,TAM,7.482993197278912
+R-loop-high-enriched,TAM,2.18978102189781
+R-loop-high-enriched,TAM,2.9850746268656714
+R-loop-high-enriched,TAM,37.71186440677966
+R-loop-high-enriched,TAM,4.672897196261682
+R-loop-low-enriched,TAM,0.0
+R-loop-high-enriched,TAM,16.247379454926623
+R-loop-low-enriched,TAM,10.0
+R-loop-low-enriched,TAM,2.149740548554485
+R-loop-high-enriched,TAM,17.09741550695825
+R-loop-high-enriched,TAM,20.19704433497537
+R-loop-low-enriched,TAM,1.6411378555798686
+R-loop-high-enriched,TAM,6.086341118188252
+R-loop-high-enriched,TAM,7.0617906683480465
+R-loop-low-enriched,TEC,1.0398613518197575
+R-loop-high-enriched,TEC,1.0204081632653061
+R-loop-high-enriched,TEC,0.7299270072992701
+R-loop-high-enriched,TEC,2.9850746268656714
+R-loop-high-enriched,TEC,1.694915254237288
+R-loop-high-enriched,TEC,2.803738317757009
+R-loop-low-enriched,TEC,43.884892086330936
+R-loop-high-enriched,TEC,43.18658280922432
+R-loop-low-enriched,TEC,20.869565217391305
+R-loop-low-enriched,TEC,10.378057820607859
+R-loop-high-enriched,TEC,2.783300198807157
+R-loop-high-enriched,TEC,1.2315270935960592
+R-loop-low-enriched,TEC,16.52078774617068
+R-loop-high-enriched,TEC,0.14154281670205238
+R-loop-high-enriched,TEC,1.3871374527112232
+R-loop-low-enriched,unclassified,0.34662045060658575
+R-loop-high-enriched,unclassified,1.530612244897959
+R-loop-high-enriched,unclassified,0.7299270072992701
+R-loop-high-enriched,unclassified,0.0
+R-loop-high-enriched,unclassified,0.847457627118644
+R-loop-high-enriched,unclassified,1.8691588785046727
+R-loop-low-enriched,unclassified,17.26618705035971
+R-loop-high-enriched,unclassified,0.3144654088050315
+R-loop-low-enriched,unclassified,1.3043478260869565
+R-loop-low-enriched,unclassified,0.815418828762046
+R-loop-high-enriched,unclassified,3.3797216699801194
+R-loop-high-enriched,unclassified,0.24630541871921183
+R-loop-low-enriched,unclassified,0.437636761487965
+R-loop-high-enriched,unclassified,4.104741684359519
+R-loop-high-enriched,unclassified,1.5132408575031526

@@ -1,0 +1,15 @@
+Group,Gene,Category,Mean expression,Fraction expressed,Scaled mean expression
+R-loop-program-low,CXCL9,Immune-activating,0.048075065,1.1767317939609236,-0.70710665
+R-loop-program-low,CXCL10,Immune-activating,0.10337835,2.553285968028419,-0.70710677
+R-loop-program-low,CCL5,Immune-activating,0.068636365,2.5310834813499112,-0.7071062
+R-loop-program-low,HLA-A,Immune-activating,0.73447365,25.532859680284194,0.7071059
+R-loop-program-low,HLA-B,Immune-activating,0.58223224,20.981349911190055,0.7071044
+R-loop-program-low,B2M,Immune-activating,0.8975679,22.158081705150977,0.7071071
+R-loop-program-low,SPP1,Immune-suppressive,1.381558,31.394316163410302,-0.70710677
+R-loop-program-high,CXCL9,Immune-activating,0.25715354,5.994671403197159,0.7071067
+R-loop-program-high,CXCL10,Immune-activating,0.24384776,6.08348134991119,0.7071067
+R-loop-program-high,CCL5,Immune-activating,0.07594688,3.9076376554174073,0.70710474
+R-loop-program-high,HLA-A,Immune-activating,0.7237298,25.688277087033747,-0.7071059
+R-loop-program-high,HLA-B,Immune-activating,0.5601563,21.181172291296626,-0.7071082
+R-loop-program-high,B2M,Immune-activating,0.81093514,19.893428063943162,-0.7071062
+R-loop-program-high,SPP1,Immune-suppressive,1.8662941,47.735346358792185,0.70710677
