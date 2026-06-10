@@ -1,0 +1,2 @@
+comparison,early_n,advanced_n,early_median,advanced_median,mannwhitney_U,p_value
+Early stage vs Advanced stage,257,90,-0.09980641633898035,0.24590257828325252,9603.0,0.016621370355961094
