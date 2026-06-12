@@ -1,0 +1,9 @@
+sample,response,RLP3_RLP4_group,n,total,proportion
+scRNAseq-296,Resistant,RLP3/RLP4-high malignant,0,0,
+scRNAseq-296,Resistant,RLP3/RLP4-low malignant,0,0,
+scRNAseq-296,Responder,RLP3/RLP4-high malignant,570,1942,29.351184346035016
+scRNAseq-296,Responder,RLP3/RLP4-low malignant,1372,1942,70.64881565396497
+scRNAseq-297,Resistant,RLP3/RLP4-high malignant,2104,3405,61.79148311306901
+scRNAseq-297,Resistant,RLP3/RLP4-low malignant,1301,3405,38.20851688693098
+scRNAseq-297,Responder,RLP3/RLP4-high malignant,0,0,
+scRNAseq-297,Responder,RLP3/RLP4-low malignant,0,0,
