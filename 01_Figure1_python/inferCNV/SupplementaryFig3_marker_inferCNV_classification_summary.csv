@@ -1,0 +1,9 @@
+malignant_inferCNV_simple,n,percent,label
+Non-malignant,25219,41.5291637848697,41.5%
+n=25219
+Marker-only,5069,8.34733063267793,8.3%
+n=5069
+inferCNV-only,21430,35.2896617593782,35.3%
+n=21430
+High-confidence,9008,14.8338438230741,14.8%
+n=9008
